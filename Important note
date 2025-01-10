@@ -1,0 +1,1 @@
+AS of 10th of january, Qwen environment is the environment that gpot pytorch compiled with cuda 12.1 which is compatiable with flash attention and is doing a great job.
