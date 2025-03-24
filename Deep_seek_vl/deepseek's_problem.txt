@@ -1,0 +1,1 @@
+Deepseek's internal libs uses xformers while it should optimmize the model it has a major draw back which is that xformers doesn;t support the use of blfoat16 on cpu offloading
